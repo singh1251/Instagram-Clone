@@ -4,7 +4,7 @@ Instagram-Clone is a full-featured web application that replicates the core func
 
 ## Live Demo
 
-You can view the live demo of the app at: [abcd](abcdefg)
+You can view the live demo of the app at: [Click Here](https://clone-instagram-social.vercel.app/)
 
 ## Screenshots
 
