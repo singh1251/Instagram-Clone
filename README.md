@@ -1,6 +1,6 @@
 # Instagram-Clone
 
-Instagram-Clone is a full-featured web application that replicates the core functionality of the popular social media platform, Instagram. This project allows users to experience a comprehensive set of social media features, including user authentication, profile customization, post creation, and real-time interactions.
+Instagram-Clone is a fully-featured web application that replicates the core functionality of the popular social media platform, Instagram. This project allows users to experience a comprehensive set of social media features, including user authentication, profile customization, post creation, and real-time interactions.
 
 ## Live Demo
 
